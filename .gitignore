@@ -1,0 +1,16 @@
+# system / edytory
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Obsidian (lokalne ustawienia)
+.obsidian/workspace*.json
+.obsidian/cache
+# sekrety i artefakty labów
+*.env
+.env*
+*.pem
+*.key
+*.pcap
+*.pcapng
+secrets.*
