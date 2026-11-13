@@ -17,6 +17,17 @@
 - [ ] Deception: honeypot, honeynet, honeytoken
 - [ ] Change management i jego wpływ na bezpieczeństwo
 
+## Materiały
+
+**Wideo:** [Professor Messer – kurs Security+ SY0-701](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/) (za darmo). Kurs pod SY0-801 jeszcze się nie pojawił; tematy domeny 1 są w obu wersjach prawie takie same. Sprawdzaj co kilka tygodni [professormesser.com](https://www.professormesser.com/), czy wyszła wersja 801.
+
+- [ ] Sekcja 0: How to Pass Your Security+ Exam (wstęp, warto obejrzeć raz)
+- [ ] 1.1 Security Controls
+- [ ] 1.2 Fundamental Security Concepts: CIA, non-repudiation, AAA, gap analysis, Zero Trust, bezpieczeństwo fizyczne, deception
+- [ ] 1.3 Change Management
+
+**Praktyka:** patrz [laby.md](laby.md).
+
 ## Notatki
 
 > Własnymi słowami. Bez wklejania fragmentów kursów i pytań z testów.
